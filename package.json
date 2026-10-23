@@ -1,0 +1,19 @@
+{
+  "name": "my-list-app-bayona",
+  "version": "1.0.0",
+  "description": "Bayona_Final_Lab_Activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bayona",
+  "license": "ISC",
+  "type": "commonjs",
+  "sripts": {
+    "start": "node server.js"
+  },
+  "script": {
+    "test": "node --test"
+  }
+}
